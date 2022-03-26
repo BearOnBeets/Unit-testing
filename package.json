@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index",
     "test": "mocha",
-    "coverage": "nyc npm run test"
+    "keyur": "nyc npm run test"
   },
   "author": "Keyur Modh",
   "license": "-",
