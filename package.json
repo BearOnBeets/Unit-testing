@@ -1,5 +1,5 @@
 {
-  "name": "unit-testing-assignment",
+  "name": "unit-testing",
   "version": "1.0.0",
   "description": "unit testing",
   "main": "index.js",
@@ -8,8 +8,8 @@
     "test": "mocha",
     "coverage": "nyc npm run test"
   },
-  "author": "Siddhesh Chavan",
-  "license": "MIT",
+  "author": "Keyur Modh",
+  "license": "-",
   "dependencies": {
     "chai": "^4.3.6",
     "chai-http": "^4.3.0",
